@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  gap: 20px;
+  list-style: none;  
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(107, 5, 208);
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.active {
+  color: rgb(4, 153, 4);
+  text-decoration: underline;
+}
+
+.nav {
+  margin-top: 20px;
+  border-bottom: 2px solid rgb(107, 5, 208);
+}
+
+
+
